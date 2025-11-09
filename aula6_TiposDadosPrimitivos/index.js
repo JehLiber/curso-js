@@ -15,4 +15,4 @@ let a = 2;
 const b = a; //copiou o dado da variável a = 2, 2
 
 a = 3;
-console.log(a, b); // retornou, let redeclarou para 3) = 3 , 2 
+console.log(a, b); // retornou, = 3 , 2 
