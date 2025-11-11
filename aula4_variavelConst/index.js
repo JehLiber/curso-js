@@ -7,6 +7,7 @@
 // Não pode modificar o valor de uma constante
 // Não utilize var, utitlize const
 // String = text | Number = Número
+
 const primeiroNumero = 5;
 const segundoNumero = 10;
 const resultado = primeiroNumero * segundoNumero;
@@ -16,3 +17,8 @@ console.log(resultadoDuplicado);
 // + - * /
 console.log(typeof primeiroNumero) //vai identificar que tipo de variável
 console.log(typeof(primeiroNumero + segundoNumero)); 
+
+
+const num1 = '123';
+num1 = '222';
+console.log(num1); //não pode ser redefinido, por isso o nome const = CONSTANTE

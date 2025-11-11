@@ -50,3 +50,15 @@ contador *= 2;
 contador = contador + passo;
 console.log(contador); //6
 contador += passo; //contador = contador + passo
+
+// NaN = Not a Number 
+
+const num5 = 10;
+const num6 = 'Jessica'
+console.log(num1 * num2);
+ // JS ele vai tentar resolver o problema, mas não quer dizer que esteja certo, por isso é muito importante entender o modo como você escreve o valor da variável.
+
+ // parseInt (inteiro), parseFloat(decimais) ou Number
+ const num7 = parseInt('5');
+ console.log(num7);
+ console.log(typeof num7); // retornou como number
