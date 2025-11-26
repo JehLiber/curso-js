@@ -11,8 +11,8 @@ console.log(umaString.replace(/t/g, '#')); //subistituiu os 't' por '#'
 console.log(umaString.length); //saber o tamanho da string = 8 por que começa do 0
 console.log(umaString.slice(2, 5)); //mostra o inicio e o final que você deseja
 console.log(umaString.split(' ', 2));
-console.log(umaString.toUpperCase());
-console.log(umaString.toLowerCase());
+console.log(umaString.toUpperCase()); /* tudo maiusculo*/
+console.log(umaString.toLowerCase()); /*Tudo minúsculo*/ 
 
 
 console.log(umaString.concat(' em um lindo dia.'));
