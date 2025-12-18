@@ -5,7 +5,7 @@
     } 
 */
 
-//obs: existem fuÇões que não vão retornar valores
+//obs: existem funÇões que não vão retornar valores
 
 //const variavel = saudacao('Luiz'); // salvando a função dentro de uma variável
 // console.log(variavel); //vai retornar undefined
